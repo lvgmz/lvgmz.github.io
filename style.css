@@ -1,10 +1,10 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #f4f4f4;
+    color: #2f4f4f;
 }
 
 header {
-    color: #2f4f4f;
     text-align: center;
 }
 
@@ -20,9 +20,15 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
+}
+
+a:visited {
     color: #2f4f4f;
 }
 
-a:active {
-    color: #2f4f4f;
+section {
+    padding: 5px 20px 20px 25px;
+    margin: 25px;
+    background: #fff;
+    border-radius: 5px;
 }
