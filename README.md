@@ -1,2 +1,2 @@
 # portfolio
-simple portfolio made html and css :]
+simple portfolio made with html and css :]
