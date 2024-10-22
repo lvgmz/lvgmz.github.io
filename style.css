@@ -17,3 +17,12 @@ nav ul li {
     display: inline;
     margin: 0 2%;
 }
+
+nav ul li a {
+    text-decoration: none;
+    color: #2f4f4f;
+}
+
+a:active {
+    color: #2f4f4f;
+}
