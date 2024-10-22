@@ -8,6 +8,11 @@ header {
     text-align: center;
 }
 
+a {
+    color: #2f4f4f;
+    text-decoration: none;
+}
+
 nav ul{
     list-style: none;
     padding: 0;
@@ -16,10 +21,6 @@ nav ul{
 nav ul li {
     display: inline;
     margin: 0 2%;
-}
-
-a {
-    text-decoration: none;
 }
 
 a:visited {
