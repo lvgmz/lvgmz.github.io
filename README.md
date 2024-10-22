@@ -1,2 +1,2 @@
 # portfolio
-simple portfolio made with vanilla javascript, html and css :]
+simple portfolio made html and css :]
